@@ -4,9 +4,7 @@
 //
 //  Created by Sasha Maksyutenko on 02.08.2023.
 //
-
 import SwiftUI
-
 struct LocationSearchView: View {
     @State private var startLocationText=""
     @Binding var mapState:MapViewState
@@ -56,6 +54,7 @@ struct LocationSearchView: View {
                 }
             }
         }
+        .background(Color.theme.backgroundColor)
         .background(.white)
     }
 }
