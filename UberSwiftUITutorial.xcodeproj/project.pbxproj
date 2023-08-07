@@ -21,6 +21,7 @@
 		F13A0EC32A7B2DDD00E42AC4 /* MapViewState.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13A0EC22A7B2DDD00E42AC4 /* MapViewState.swift */; };
 		F13A0EC62A7C49C800E42AC4 /* RideRequestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13A0EC52A7C49C800E42AC4 /* RideRequestView.swift */; };
 		F13A0EC82A7FC35600E42AC4 /* RideType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13A0EC72A7FC35600E42AC4 /* RideType.swift */; };
+		F13A0ECA2A8118A400E42AC4 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13A0EC92A8118A400E42AC4 /* Double.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		F13A0EC22A7B2DDD00E42AC4 /* MapViewState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewState.swift; sourceTree = "<group>"; };
 		F13A0EC52A7C49C800E42AC4 /* RideRequestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideRequestView.swift; sourceTree = "<group>"; };
 		F13A0EC72A7FC35600E42AC4 /* RideType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideType.swift; sourceTree = "<group>"; };
+		F13A0EC92A8118A400E42AC4 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 		F13A0EA82A798B4500E42AC4 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				F13A0EC92A8118A400E42AC4 /* Double.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				F13A0EBD2A7A762B00E42AC4 /* LocationSearchView.swift in Sources */,
 				F13A0EB32A79985500E42AC4 /* LocationManager.swift in Sources */,
 				F13A0EC62A7C49C800E42AC4 /* RideRequestView.swift in Sources */,
+				F13A0ECA2A8118A400E42AC4 /* Double.swift in Sources */,
 				F13A0EC32A7B2DDD00E42AC4 /* MapViewState.swift in Sources */,
 				F13A0EBB2A7A71B900E42AC4 /* MapViewActionButton.swift in Sources */,
 				F13A0E992A798AD300E42AC4 /* UberSwiftUITutorialApp.swift in Sources */,
